@@ -1,0 +1,50 @@
+#Renault 5 GTL||36||4||79||58||1825||77||Europe
+#BMW 320i||21.5||4||121||110||2600||77||Europe
+#Mazda RX-4||21.5||3||80||110||2720||77||Japan
+#Volkswagen Rabbit||43.1||4||90||48||1985||78||Europe
+#Ford Fiesta||36.1||4||98||66||1800||78||US
+#Honda Civic CVCC||36.1||4||91||60||1800||78||Japan
+#Toyota Corolla||27.5||4||134||95||2560||78||Japan
+#Datsun 200-SX||23.11||4||119||97||2405||78||Japan
+#Audi 5000||20.3||5||131||103||2830||78||Europe
+#Volvo 264gl||17||6||163||125||3140||78||Europe
+#Saab 99gle||21.6||4||121||115||2795||78||Europe
+#Peugeot 604sl||16.2||6||163||133||3410||78||Europe
+#Volkswagen Scirocco||31.5||4||89||71||1990||78||Europe
+#Honda Accord LX||29.5||4||98||68||2135||78||Japan
+#Ford Country Squire||15.5||8||351||142||4054||79||US
+#Chevrolet Malibu Classic||19.2||8||267||125||3605||79||US
+#Chrysler Lebaron Town||18.5||8||360||150||3940||79||US
+#Mercedes Benz 300d||25.4||5||183||77||3530||79||Europe
+#Cadillac Eldorado||23||8||350||125||3900||79||US
+#Peugeot 504||27.2||4||141||71||3190||79||Europe
+#Datsun 210||31.8||4||85||65||2020||79||Japan
+#Fiat Strada Custom||37.3||4||91||69||2130||79||Europe
+#Chevrolet Citation||28||4||151||90||2678||80||US
+#Toyota Corolla Liftback||29.8||4||134||90||2711||80||Japan
+#Mazda 626||31.5||4||120||75||2542||80||Japan
+#Volkswagen Dasher||43.4||4||90||48||2335||80||Europe
+#Audi 5000s||36.4||5||121||67||2950||80||Europe
+#Mercedes-Benz 240d||30||4||146||67||3250||80||Europe
+#Honda Civic||44.6||4||91||67||1850||80||Japan
+#Subaru DL||33.8||4||97||67||2145||80||Japan
+#Dodge Aries Wagon||25.8||4||156||92||2620||81||US
+#Chevrolet Citation||23.5||6||173||110||2725||81||US
+#Subaru||32.3||4||97||67||2065||81||Japan
+#Mazda GLC 4||34.1||4||91||68||1985||81||Japan
+#Ford Escort 4W||34.4||4||98||65||2045||81||US
+#Volkswagen Jetta||33||4||105||74||2190||81||Europe
+#Renault 18i||34.5||4||100||0||2320||81||Europe
+#Honda Prelude||33.7||4||107||75||2210||81||Japan
+#Toyota Corolla||32.4||4||108||75||2350||81||Japan
+#Volvo Diesel||30.7||6||145||76||3160||81||Europe
+#Chrysler Lebaron Salon||17.6||6||225||85||3465||81||US
+#Volkswagen Rabbit l||36||4||105||74||1980||82||Europe
+#Mazda GLC Custom l||37||4||91||68||2025||82||Japan
+#Nissan Stanza XE||36||4||120||88||2160||82||Japan
+#Honda Accord||36||4||107||75||2205||82||Japan
+#Buick Century Limited||25||6||181||110||2945||82||US
+#Toyota Celica GT||32||4||144||96||2665||82||Japan
+#Dodge Charger 2.2||36||4||135||84||2370||82||US
+#Chevrolet Camaro||27||4||151||90||2950||82||US
+#Volkswagen Pickup||44||4||97||52||2130||82||Europe
